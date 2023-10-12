@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. Michael Pogrebinsky - Top Developer Academy &#10;https://topdeveloperacademy.com&#10;All rights reserved" />
+    <option name="myName" value="Top Developer Academy" />
+  </copyright>
+</component>
